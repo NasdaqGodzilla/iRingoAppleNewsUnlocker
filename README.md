@@ -77,7 +77,7 @@ hostname = %APPEND% news-client.apple.com, news-client-search.apple.com, news-ed
 ## 4. 进入飞行模式后启动Apple news
 首先启动小火煎，保证上述规则生效。进入飞行模式（需要连接WiFi以使用网络）后启动Apple news。等待Apple news加载完成后即可。
 
-> 只要Apple news首次加载完成后，后续使用不再需要非系模式
+> 只要Apple news首次加载完成后，后续使用不再需要飞行模式
 
 # 鸣谢
 https://github.com/VirgilClyne/iRingo
